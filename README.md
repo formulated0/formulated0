@@ -1,6 +1,6 @@
 <div align="left">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=800&color=e05b1a&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%24+cargo+build+--release+--target+x86_64-unknown-linux-gnu;++Compiling+formulated0+v0.1.0+...;+Finished+target(s)+in+0.3s)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=e05b1a&center=false&vCenter=false&multiline=true&repeat=true&width=600&height=63&lines=%24+cargo+build+--release+--target+x86_64-unknown-linux-gnu;++Compiling+formulated0+v0.1.0+...;+Finished+target(s)+in+0.3s)
 
 </div>
 
