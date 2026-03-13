@@ -6,12 +6,12 @@
 
 <br>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Jakub Marciniuk                                                            │
-│  ─────────────────────────────────────────────────────────────────────────  │
-│  systems  ·  rust  ·  linux                                                 │
-└─────────────────────────────────────────────────────────────────────────────┘
+```rs
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  Jakub Marciniuk                                                            ┃
+┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ┃
+┃  systems  ·  rust  ·  linux                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 <div align="left">
@@ -23,35 +23,31 @@
 
 </div>
 
-<br>
-
-```
-┌─ about ─────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   i like it when my software works                                          │
-│   low-level when it matters, high-level when it doesnt                      │
-│   i am so memory safe except for when im not                                │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+```md
+┏━ about ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                             ┃
+┃   i like it when my software works                                          ┃
+┃   low-level when it matters, high-level when it doesnt                      ┃
+┃   i am so memory safe except for when im not                                ┃
+┃                                                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-<br>
-
 ```
-┌─ stack ─────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  ██ rust          primary · systems · everything it can touch               │
-│  ▓▓ python        scripting · automation · glue                             │
-│  ▒▒ c#            .net ecosystem · tooling                                  │
-│  ░░ html/css/js   when the terminal needs a window                          │
-│                                                                             │
-├─ tooling ───────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  editor    neovim · vscode                                                  │
-│  vcs       git · github                                                     │
-│  env       linux                                                            │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┏━ stack ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                             ┃
+┃  ██ rust          primary · systems · everything it can touch               ┃
+┃  ▓▓ python        scripting · automation · glue                             ┃
+┃  ▒▒ c#            .net ecosystem · tooling                                  ┃
+┃  ░░ html/css/js   when the terminal needs a window                          ┃
+┃                                                                             ┃
+┣━ tooling ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                             ┃
+┃  editor    neovim · vscode                                                  ┃
+┃  vcs       git · github                                                     ┃
+┃  env       linux                                                            ┃
+┃                                                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 <div align="left">
@@ -70,30 +66,27 @@
 
 </div>
 
-<br>
-
 ```
-┌─ projects i enjoyed making ───────────────────────────────────────────────────────────────────┐
+┏━ projects i enjoyed making ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ```
 
 <div align="left">
 
 <a href="https://github.com/formulated0/ferret">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=ferret&theme=dark&hide_border=true&bg_color=0d1117&title_color=e05b1a&text_color=8b9399" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=ferret&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
 </a>
 <a href="https://github.com/formulated0/spinning-cube">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=spinning-cube&theme=dark&hide_border=true&bg_color=0d1117&title_color=e05b1a&text_color=8b9399" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=spinning-cube&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
 </a>
 
 </div>
-```
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br>
 
 ```
-┌─ languages ─────────────────────────────────────────────────────────────────┐
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+```
+┏━ languages ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ```
 
 <div align="left">
@@ -108,38 +101,32 @@
 </div>
 
 ```
-└─────────────────────────────────────────────────────────────────────────────┘
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-<br>
-
 ```
-┌─ activity ──────────────────────────────────────────────────────────────────┐
+┏━ activity ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ```
 
 <div align="left">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=formulated0&theme=dark&hide_border=true&background=0d1117&stroke=e05b1a&ring=e05b1a&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b9399&sideLabels=8b9399&dates=8b9399)
+![GitHub Streak](https://streak-stats.demolab.com?user=formulated0&theme=dark&hide_border=false&background=0d1117&border=e05b1a&stroke=e05b1a&ring=e05b1a&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b9399&sideLabels=8b9399&dates=8b9399)
 
 </div>
 
 ```
-└─────────────────────────────────────────────────────────────────────────────┘
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-<br>
-
 ```
-┌─ currently ─────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  [ ] making software                                                        │
-│  [ ] studying                                                               │
-│  [X] sleeping                                                               │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┏━ currently ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                             ┃
+┃  [ ] making software                                                        ┃
+┃  [ ] studying                                                               ┃
+┃  [X] sleeping                                                               ┃
+┃                                                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
-
-<br>
 
 <div align="center">
 
