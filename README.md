@@ -73,15 +73,19 @@
 <br>
 
 ```
-┌─ metrics ───────────────────────────────────────────────────────────────────┐
+┌─ projects i enjoyed making ───────────────────────────────────────────────────────────────────┐
 ```
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=formulated0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e05b1a&icon_color=e05b1a&text_color=8b9399&ring_color=e05b1a&include_all_commits=true&count_private=true)
+<a href="https://github.com/formulated0/ferret">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=ferret&theme=dark&hide_border=true&bg_color=0d1117&title_color=e05b1a&text_color=8b9399" />
+</a>
+<a href="https://github.com/formulated0/spinning-cube">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=spinning-cube&theme=dark&hide_border=true&bg_color=0d1117&title_color=e05b1a&text_color=8b9399" />
+</a>
 
 </div>
-
 ```
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
