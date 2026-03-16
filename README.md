@@ -72,8 +72,8 @@
 
 <div align="left">
 
-<a href="https://github.com/formulated0/ferret">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=ferret&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
+<a href="https://github.com/formulated0/vulpes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=vulpes&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
 </a>
 <a href="https://github.com/formulated0/spinning-cube">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=spinning-cube&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
