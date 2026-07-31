@@ -31,17 +31,17 @@
 
 <div align="left">
 
-<a href="https://github.com/formulated0/vulpes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=vulpes&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
+<a href="https://github.com/virelune-xyz/vulpes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=virelune-xyz&repo=vulpes&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
 </a>
-<a href="https://github.com/formulated0/spinning-cube">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=spinning-cube&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
+<a href="https://github.com/virelune-xyz/spinning-cube">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=virelune-xyz&repo=spinning-cube&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
 </a>
-<a href="https://github.com/formulated0/ferret">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=ferret&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
+<a href="https://github.com/virelune-xyz/ferret">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=virelune-xyz&repo=ferret&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
 </a>
-<a href="https://github.com/formulated0/snakeRS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=formulated0&repo=snakeRS&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
+<a href="https://github.com/virelune-xyz/snakeRS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=virelune-xyz&repo=snakeRS&theme=dark&hide_border=false&bg_color=0d1117&title_color=e05b1a&text_color=8b9399&border_color=e05b1a" />
 </a>
 
 
@@ -57,7 +57,7 @@
 
 <div align="left">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=formulated0&theme=dark&hide_border=false&background=0d1117&border=e05b1a&stroke=e05b1a&ring=e05b1a&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b9399&sideLabels=8b9399&dates=8b9399)
+![GitHub Streak](https://streak-stats.demolab.com?user=virelune-xyz&theme=dark&hide_border=false&background=0d1117&border=e05b1a&stroke=e05b1a&ring=e05b1a&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b9399&sideLabels=8b9399&dates=8b9399)
 
 </div>
 
